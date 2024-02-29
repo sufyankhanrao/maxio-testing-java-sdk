@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * This is a model class for BulkComponentsPricePointAssignment type.
  */
-public class BulkComponentsPricePointAssignment
+public class BulkComponentSPricePointAssignment
         extends BaseModel {
     private List<ComponentPricePointAssignment> components;
 
